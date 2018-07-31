@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+	background: url(../img/book.jpg) no-repeat center center fixed;
+	background-size: cover;
+	font-size: 50px;
+	color: yellow;
+}
+#search{
+	border-radius: 15px;
+	padding: 20px;
+	font-size: 10px;
+}
+#button{
+	padding: 15px;
+	border-radius: 10px;
+}
